@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by vinamrata on 12/30/16.
+ *  Edited by mandar
  */
 public class CountInBinary {
     public static void main(String[] args) {
@@ -22,5 +23,4 @@ public class CountInBinary {
         System.out.println(max);
 
     }
-
 }
